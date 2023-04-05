@@ -1,0 +1,26 @@
+                      AMMAR
+class room subject
+STUDENT EXAM 
+STUDENT MARK
+STUDENT CLASS 
+FEE 
+
+                     JUNAID
+event
+FEE STUDENT 
+GRADIAN STUDENT
+TEACHER CLASS
+TEACHER SCHEDULE
+SUBJECTschedule
+                     MOHSIN
+CHAL BACHA CHUTI KAR NIKAL 
+
+                     TARIQ
+admission crud
+MATERIAL
+news 
+ATTENDENCE
+extra class
+teacher salary
+
+ 

@@ -1,0 +1,11 @@
+  =>  Template Name    : eLEARNING - eLearning php Template
+
+  =>  Template Link    : https://phpcodex.com/elearning-php-template
+
+  =>  Template License : https://phpcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : php Codex
+
+  =>  Author Website   : https://phpcodex.com
+
+  =>  About php Codex : php Codex is one of the top creators and publishers of Free php templates, php landing pages, php email templates and php snippets in the world. Read more at ( https://phpcodex.com/about-us )
